@@ -32,17 +32,14 @@ A view extension for [ComfyUI Viewer](https://github.com/WASasquatch/ComfyUI_Vie
 
 ### Install Steps
 
-1. **Clone or download** this repository
-2. **Copy the contents** of `ComfyUI_Viewer_Image_Search` to your `ComfyUI/custom_nodes/ComfyUI_Viewer` folder
-3. **Install Python dependencies** against your ComfyUI Python environment:
-   ```bash
-   pip install -r requirements_image_search.txt
-   ```
-4. **Restart ComfyUI**
+1. **Download the ZIP from GitHub**
+![Download Zip](screenshots/download.jpg)
+2. **Extract the ZIP to your `ComfyUI/custom_nodes/ComfyUI_Viewer/extensions` folder**
+3. **Restart ComfyUI** and the extension will be installed and loaded.
+![Installation Log](screenshots/installation.jpg)
 
-## Usage
 
-### Workflow Setup
+## Workflow Setup
 
 It's highly recommended to use a pause node to prevent the graph from running while you are selecting images. 
 
