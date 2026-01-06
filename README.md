@@ -28,7 +28,7 @@ A view extension for [ComfyUI Viewer](https://github.com/WASasquatch/ComfyUI_Vie
 ### Prerequisites
 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) installed
-- [ComfyUI Viewer](https://github.com/WASasquatch/ComfyUI_Viewer) installed
+- [ComfyUI Viewer](https://github.com/WASasquatch/ComfyUI_Viewer)  **v0.3.0 or higher** installed
 
 ### Install Steps
 
