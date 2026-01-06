@@ -33,9 +33,11 @@ A view extension for [ComfyUI Viewer](https://github.com/WASasquatch/ComfyUI_Vie
 ### Install Steps
 
 1. **Download the ZIP from GitHub**
+
 ![Download Zip](screenshots/download.jpg)
 2. **Extract the ZIP to your `ComfyUI/custom_nodes/ComfyUI_Viewer/extensions` folder**
 3. **Restart ComfyUI** and the extension will be installed and loaded.
+
 ![Installation Log](screenshots/installation.jpg)
 
 
