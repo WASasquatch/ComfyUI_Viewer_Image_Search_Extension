@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+pillow
+transformers
+huggingface_hub
+faiss-cpu
