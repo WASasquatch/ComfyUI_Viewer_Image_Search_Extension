@@ -49,9 +49,9 @@ It's highly recommended to use a pause node to prevent the graph from running wh
 I recomment [ComfyUI-pause](https://github.com/wywywywy/ComfyUI-pause)
 
 Overview of Workflow:
-```
+
 [Load Image] → [CV Image Search Options] → [Content Viewer] → [[ComfyUI-pause](https://github.com/wywywywy/ComfyUI-pause) Node] → [Save Image]
-```
+
 
 Using the pause node, the workflows first run is the "Search Run" or "Dry Run" and will be suspended. This will allow you time to select images from the gallery. When you are finished, you should select the "Cancel" button and run the workflow again for your selection to pass, otherwise the input image will be passed if you click "Continue". 
 
